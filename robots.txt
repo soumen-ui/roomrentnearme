@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soumen-ui.github.io/roomrentnearme/sitemap.xml
